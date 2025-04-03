@@ -22,6 +22,9 @@ Este proyecto es una API REST construida con Spring Boot que permite gestionar u
 ### `DELETE /api/videojuegos/{id}` – Eliminar un videojuego
 ![DELETE](img/delete.png)
 
+### `CREDITOS /creditos` – Plantilla HTML creditos
+![CREDITOS](img/creditos.png)
+
 ## Créditos
 
 - José de Jesús Castillo Nolasco
